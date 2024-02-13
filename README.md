@@ -1,5 +1,7 @@
 # Multiple Disease Predictor
 
+https://github.com/Chiranjeevi-kumar205/DISEASE_PREDICTIOR/assets/113673104/d79b17b5-0179-43b5-86a6-00c350655945
+
 ## About
 
 This webapp was developed using Flask Web Framework and was deployed on Heroku server. The models used to predict the diseases were trained on large Datasets. All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. The webapp can predict following Diseases:
@@ -51,4 +53,4 @@ All the datasets were used from kaggle.
 - [Kidney Disease Dataset](https://www.kaggle.com/mansoordaku/ckdisease)
 - [Liver Disease Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
 
-
+Chiranjeevi Kumar Battula
